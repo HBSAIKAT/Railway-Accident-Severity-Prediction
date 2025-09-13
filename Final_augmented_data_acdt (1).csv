@@ -1,0 +1,385 @@
+Station,Lat,Lon,Type of Accident,Name of Train,Train Type,Collision (Place),Collision With,Cause,Error By,year,month,weekday,severity
+Kurigram,25.7833,89.4667,Point Bursting,422 Down,Passenger,Missing,Missing,Negligence,Human,2020,1,0,0
+Bohorpur,24.8167,89.3667,Derailment,8 Down,Passenger,Missing,Missing,Defective Component,Mechanical,2020,1,5,0
+Safdarpur,24.5833,89.25,Derailment,26 Down ,Passenger,Missing,Missing,Trap point Collision,Mechanical,2020,1,6,0
+Bespur- Narail Banmalipur,23.1333,89.5,Collision,Bhatiapara Express-2,Passenger,Crossing,Motorcycle,Level Crossing Violation,Human,2020,1,1,1
+Khulna,22.8333,89.55,On-board fall,53 Up Betna Express,Passenger,Missing,Missing,Pessenger Negligence,Human,2020,2,5,1
+Parbotipur,24.53584705882353,89.1647050420168,Collision,8 Down,Passenger,Crossing,Truck,Level Crossing Violation,Human,2020,3,3,0
+Bangabandhu Bridge (West),23.9,89.25,Derailment,BWD 12 Down,Section Freight,Missing,Missing,Incorrect Inspection,Human,2020,3,1,0
+Onnodangor,24.55,89.4,Collision,Engine no 2402,Freight,Crossing,Auto,Level Crossing Violation,Human,2020,3,0,2
+Benapole- Jessore,22.7333,89.1333,Derailment,BN 28 Down,Section Freight,Missing,Missing,Level Crossing Violation,Human,2020,6,4,0
+Dinajpur,25.5833,88.5,Derailment,BC no 100008,Freight,Missing,Missing,Component Break,Mechanical,2020,7,1,0
+Bangabandhu Bridge (East),23.9,89.25,Derailment,797 no Kurigram Express,Passenger,Missing,Missing,Incorrect PLC,Human,2020,7,5,0
+Birampur- Hili,25.9333,88.4167,Derailment,794 Down ,Passenger,Missing,Missing,Widened Gauge,Human,2020,9,5,0
+Mouchak- Hightech City,23.7333,90.4167,Line Blockage,981 Up,Passenger,Missing,Missing,Incorrect Inspection,Human,2020,9,5,0
+Burimari- Patgram,25.9667,89.0667,Collision,66 Down,Passenger,Crossing,Truck,Level Crossing Violation,Human,2020,9,5,0
+Shonatola,23.0667,89.45,Overshooting,"7 up, 768 Down",Passenger,Missing,Missing,Defective Component,Mechanical,2020,10,4,0
+Ishwardi- Bypass,24.3333,89.25,Component Breaking,981 Up,Passenger,Missing,Missing,Material failure,Mechanical,2020,10,0,0
+Singiya,23.8667,89.3333,Collision,Missing,Passenger,Crossing,Private Car,Level Crossing Violation,Human,2020,10,4,2
+Santahar,24.1833,89.35,Derailment,714 no,Passenger,Missing,Missing,Trap point Collision,Mechanical,2020,10,3,0
+Safdarpur,24.5833,89.25,Collision,"KP 21 Up, DJN 26 Down",Section Freight,Railway Track,Train,Signal Violation,Human,2020,10,1,0
+Mirjapur- Hightech City,23.7333,90.4167,Collision,766 no Nilsagar Express,Passenger,Crossing,Bus,Unclosed Barrier,Human,2020,11,5,1
+Majhgram,24.4833,89.0833,Derailment,5 Down,Passenger,Missing,Missing,Incorrect Point,Human,2020,11,2,0
+Gabtoli- Bogra,24.8333,88.9333,Parting,772 Down ,Passenger,Missing,Missing,Defective Component,Mechanical,2020,11,0,0
+Jessore- Rupdiya,23.1667,89.25,Collision,716 Down,Passenger,Crossing,Truck,Level Crossing Violation,Human,2020,11,5,1
+Rajarhat- Kurigram,25.7833,89.4667,Line Blockage,"797 Up, 798 Down",Passenger,Crossing,Truck,Accident,Human,2020,11,6,0
+Setabhanj- Mangalpur,24.5,89.2,Component Breaking,8 Down,Passenger,Missing,Missing,Negligence,Human,2020,12,6,0
+Nachal- Rohonpur,24.5,89.2,Collision,57 Up,Passenger,Crossing,Truck,Level Crossing Violation,Human,2020,12,0,1
+Kauniya,25.0833,88.9333,Parting,20 Down,Passenger,Missing,Missing,Coupling Failure,Human,2020,12,6,0
+Ishwardi- Bypass,24.3333,89.25,Derailment,757 Down,Passenger,Missing,Missing,Defective Component,Human,2020,12,3,0
+Fulbari,24.8,88.5833,Collision,Missing,Passenger,Crossing,Truck,Level Crossing Violation,Human,2020,12,1,0
+Fulbari,24.8,88.5833,Derailment,727 Up Rupsha Express ,Passenger,Missing,Missing,Level Crossing Violation,Human,2020,12,1,1
+Shitlai- Kakonhat,25.45,89.5,Collision,57 Up,Passenger,Crossing,Trolly,Level Crossing Violation,Human,2021,1,4,0
+Rajbari- Vanga,23.3333,89.3333,Derailment,"3 Up, 4 Down",Passenger,Missing,Missing,Defective Component,Mechanical,2021,1,1,0
+Baharpur- Kalukhali,24.0,89.3,Collision,783 Up,Passenger,Crossing,Truck,Level Crossing Violation,Human,2021,1,5,0
+Machpara- Pangsha,23.2,89.4,Collision,784 no ,Passenger,crossing,Truck,Level Crossing Violation,Human,2021,1,4,0
+Nowapara,24.4,89.2,Averted Collision,"16 Down, 761 Up",Passenger,Missing,Missing,Signal Violation,Human,2021,1,5,0
+Nowapara,24.4,89.2,Coach Fire,25 Up,Passenger,Missing,Missing,Negligence,Human,2021,1,6,0
+Darshanajong- Uthli,25.0,88.95,Collision,726 Down,Passenger,Crossing,Trolly,Signal Violation,Human,2021,1,1,0
+Sordohroad- Arani,24.15,89.35,Collision,756 Down ,Passenger,Crossing,Trolly,Level Crossing Violation,Human,2021,1,2,0
+Uthli,25.0,88.95,Averted Collision,"DNK 12 Down, KIP 27 Up",Section Freight,Missing,Missing,Signal Violation,Human,2021,1,6,0
+Parbotipur,24.53584705882353,89.1647050420168,Derailment,41 Up,Passenger,Missing,Missing,Incorrect Point,Human,2021,2,6,0
+Kotachadpur,24.85,88.9,Derailment,726 Down,Passenger,Missing,Missing,Overspeeding,Human,2021,2,0,0
+Kustia,23.8333,89.5,Derailment,AIFD 2 Down,Section Freight,Missing,Missing,Signal Violation,Human,2021,3,4,0
+Poradoh,24.4,89.3,Derailment,784 Down,Passenger,Missing,Missing,Track Defect,Mechanical,2021,3,2,0
+Amirabad- Pachuriajong,24.45,89.35,Collision,755 Up,Passenger,Crossing,Truck,Level Crossing Violation,Human,2021,3,1,1
+Shitlai- Rajshahi,24.35,88.6,Collision,791 no,Passenger,Crossing,Truck,Level Crossing Violation,Human,2021,4,6,0
+Kaunia,24.53584705882353,89.1647050420168,Derailment,62 Down ,Passenger,Missing,Missing,Track Defect,Mechanical,2021,4,6,0
+Shantahar,24.1833,89.35,Derailment,Engine no 2616,Freight,Missing,Missing,Incorrect Signal,Human,2021,4,5,0
+Shibganj- Vomradoh,24.95,88.75,Collision,706 Down Ekota Express,Passenger,Crossing,Power Tiller,Level Crossing Violation,Human,2021,5,0,0
+Kaunia,24.53584705882353,89.1647050420168,Derailment,97 no,Passenger,Missing,Missing,Incorrect Point,Human,2021,6,0,0
+Amnura,24.53584705882353,89.1647050420168,Derailment,Engine no 6413,Freight,Missing,Missing,Track defect,Mechanical,2021,7,1,0
+Chilahati- Mirjaganj,25.8333,89.2,Collision,28 Down,Passenger,Crossing,Truck,Level Crossing Violation,Human,2021,8,1,1
+Kanchan,25.7,88.7,Point Bursting,793 Up,Passenger,Missing,Missing,Defective Component,Mechanical,2021,8,4,0
+Uthli,25.0,88.95,Derailment,KN 17 Up,Section Freight,Missing,Missing,Negligence,Human,2021,8,0,0
+Lalmonirhat,25.9,89.3333,Averted Collision,"22 Down, 713 Up Korotoa Express",Passenger,Missing,Missing,Signal Violation,Human,2021,8,1,0
+Kismot,25.1,89.1,Overshooting,"804 Down, 793 Up",Passenger,Missing,Missing,Negligence,Human,2021,9,6,0
+Dinajpur,25.5833,88.5,Point Bursting,794 Down,Passenger,Missing,Missing,Component Break,Mechanical,2021,9,0,0
+Ishwardi- Muladuli,24.53584705882353,89.1647050420168,Derailment,725 Up Sundarban Express,Passenger,Missing,Missing,Negligence,Human,2021,9,0,0
+Meherullangarh,24.55,88.9,Collision,23 Up,Passenger,Crossing,Truck,Level Crossing Violation,Human,2021,10,1,0
+Chengutiya- Shingia,25.2,88.8,Collision,15 Up,Passenger,Crossing,Trolly,Level Crossing Violation,Human,2021,10,2,0
+Pangsha- Machpara,23.2,89.4,Collision,MKD 24 Down ,Section Freight,Crossing,Trolly,Level Crossing Violation,Human,2021,10,0,0
+Pabna,24.0,89.0,Collision,DHCR Shuttle 1 Up,Passenger,Crossing,Truck,Level Crossing Violation,Human,2021,10,3,0
+Jessore,23.1667,89.25,Derailment,54 Down,Passenger,Missing,Missing,Negligence,Human,2021,11,5,0
+Boralbridge,24.0,89.3,Derailment,BWEUID 2 Down,Section Freight,Missing,Missing,Negligence,Human,2021,12,3,0
+Natore,24.4,89.2,Collision,797 Up Kurigram Express,Passenger,Crossing,Private Car,Level Crossing Violation,Human,2021,12,0,0
+Nilphamari- Sayedpur,25.8,88.75,Collision,728 Down,Passenger,Rail Bridge,Human,Kids,Human,2021,12,2,1
+Parbotipur,24.53584705882353,89.1647050420168,Derailment,KNSDP 2 Down,Section Freight,Missing,Missing,Coupling Failure,Mechanical,2021,12,2,0
+Bangabandhu Bridge (West)- Jamtoil,24.0,89.2,Collision,751 Up,Passenger,Crossing,Truck,Unclosed Barrier,Human,2021,12,4,1
+Mouchak- Hightech City,23.7333,90.4167,Parting,705 Up,Passenger,Missing,Missing,Coupling Failure,Mechanical,2022,1,5,0
+Fulbari,24.8,88.5833,Collision,31 Up,Passenger,Railway Track,truck,Unclosed Barrier,Human,2022,1,6,0
+Parbotipur- Chiribandar,24.7167,88.5667,Collision,768 no Dolonchapa Express,Passenger,Crossing,truck,Truck Engine Failure,Mechanical,2022,1,2,0
+Bangabandhu Bridge (East),23.9,89.25,Collision,795 Up,Passenger,Railway Track,Motorcycle,Level Crossing Violation,Human,2022,1,5,1
+Chapainawabganj,24.53584705882353,89.1647050420168,Collision,6 Down,Passenger,Crossing,Nasimon,Level Crossing Violation,Human,2022,1,0,1
+Bogra,24.53584705882353,89.1647050420168,Parting,752 Down Lalmoni Express,Passenger,Missing,Missing,Material failure,Mechanical,2022,1,3,0
+Benapol,24.53584705882353,89.1647050420168,Derailment,PB 7 Up,Section Freight,Missing,Missing,Component Break,Mechanical,2022,3,4,0
+Natore,24.4,89.2,Derailment,NK 6 Down,Section Freight,Missing,Missing,Point Bursting,Mechanical,2022,3,3,0
+Chiribandar,24.53584705882353,89.1647050420168,Component Breaking,41 Up,Passenger,Missing,Missing,Incorrect Inspection,Human,2022,3,2,0
+Kahalu,24.53584705882353,89.1647050420168,Averted Collision,768 Down Dolonchapa Express,Passenger,Missing,Missing,PLC,Human,2022,5,3,0
+Mouchak,23.7333,90.4167,Derailment,794 Down Panchagar Express,Passenger,Missing,Missing,Negligence,Human,2022,5,4,0
+Alamdanga- Halsa,24.53584705882353,89.1647050420168,Overshooting,DSB 9 Up,Freight,Missing,Missing,Signal Violation,Human,2022,6,3,2
+Setabhanj,24.53584705882353,89.1647050420168,Point Bursting,Missing,Passenger,Missing,Missing,Incorrect Point,Human,2022,6,6,0
+Mirjapur,24.53584705882353,89.1647050420168,Derailment,Missing,Passenger,Missing,Missing,Signal Violation,Human,2022,6,0,0
+Monthotpur,24.53584705882353,89.1647050420168,Collision,768 no Dolonchapa Express,Passenger,Passenger ,Pole,Negligence,Human,2022,6,3,1
+Akkelpur- Santahar,24.53584705882353,89.1647050420168,Derailment,706 Down,Passenger,Missing,Missing,Incorrect Inspection,Human,2022,7,5,0
+Baharpur- Kashiani,24.53584705882353,89.1647050420168,Collision,784 no Tungipara Express,Passenger,crossing,Nasimon,Level Crossing Violation,Human,2022,7,3,1
+Halsa,24.53584705882353,89.1647050420168,Derailment,KA 5 Up,Section Freight,Missing,Missing,Signal Violation,Human,2022,7,5,0
+Halsa,24.53584705882353,89.1647050420168,Derailment,KA 5 Up ,Section Freight,Missing,Missing,Signal Violation,Human,2022,7,5,0
+Lalmonirhat,25.9,89.3333,Averted Collision,71 Up Commuter,Passenger,Missing,Missing,Unclosed Barrier,Human,2022,7,6,0
+Lalmonirhat,25.9,89.3333,Averted Collision,71 Up Commuter,Passenger,Missing,Missing,Unclosed Barrier,Human,2022,7,6,0
+kaunia,24.53584705882353,89.1647050420168,Collision,771 Up,Passenger,Railway Track,Peman,Negligence,Human,2022,8,5,0
+Abdulpur,24.95,88.85,Derailment,760 no Padma Express,Passenger,Missing,Missing,Trap point Collision,Mechanical,2022,8,6,0
+Aditmari,24.53584705882353,89.1647050420168,Averted Collision,65 Up Commuter,Passenger,Missing,Missing,PLC,Human,2022,9,1,0
+Sordohroad,24.53584705882353,89.1647050420168,Derailment,803 no Banglabandha Express,Passenger,Missing,Missing,Defective Component,Mechanical,2022,9,0,0
+Mangalpur,24.53584705882353,89.1647050420168,Overshooting,42 Down ,Passenger,Missing,Missing,Signal Violation,Human,2022,9,0,0
+Bogra,24.53584705882353,89.1647050420168,Overshooting,"22 Down, 491 Up",Passenger,Missing,Missing,Defective Component,Mechanical,2022,11,5,0
+Bangabandhu Bridge (East),23.9,89.25,Derailment,BC no- 100334,Freight,Missing,Missing,Defective Component,Mechanical,2022,12,0,0
+Kaunia,24.53584705882353,89.1647050420168,Collision,"771 Up, 61 Up",Passenger,engine reversing,Train,Incorrect inspection,Human,2022,12,2,0
+Bangabandhu Bridge (West)- Jamtoil,24.0,89.2,Collision,759 Up Padma Express,Passenger,crossing,Bus,Level Crossing Violation,Human,2022,12,2,1
+Kotachadpur- Mubarakganj,24.85,88.9,Derailment,26 Down ,Passenger,Missing,Missing,Axle Breaking,Mechanical,2023,1,6,0
+Chilahati,25.8333,89.2,Collision,728 Up Rupsa Express,Passenger,Railway Track,Train,Incorrect PLC,Human,2023,1,2,0
+Shibganj- Vomradoh,24.95,88.75,Collision,794 no Down Panchagar Express,Passenger,Crossing,truck,Level Crossing Violation,Human,2023,1,6,0
+Parbotipur,24.53584705882353,89.1647050420168,Derailment,Engine no 6408,Freight,Missing,Missing,Incorrect schedule,Human,2023,4,5,0
+Chatmohor,24.6,89.25,Derailment, BC no- 100211,Freight,Missing,Missing,Track obstruction,Mechanical,2023,4,6,0
+Mahendranagar,24.75,88.8,Derailment,Lalmoni Commuter ( LC-3),Passenger,Missing,Missing,Material failure,Mechanical,2023,4,3,0
+Sharatnagar- Lahiri Mohonpur,24.3,88.65,Parting,772 Down ,Passenger,Missing,Missing,Material failure,Mechanical,2023,4,3,0
+Ullapara,24.2,89.1,Derailment,BCN no- ER- 310202/11145,Freight,Missing,Missing,Track Defect,Mechanical,2023,5,4,0
+Tista,24.55,89.35,Point Bursting,714 Down ,Passenger,Missing,Missing,Incorrect Point,Human,2023,6,0,0
+Dinajpur,25.5833,88.5,Collision,62 Down ,Passenger,Railway Track,Platform,Track Defect,Mechanical,2023,7,2,0
+Mirbagh- Kaunia,25.0833,88.9333,Collision,462 Down ,Passenger,Crossing,Auto,Level Crossing Violation,Human,2023,8,4,0
+Singia,23.8667,89.3333,Derailment,KN 5 Up,Section Freight,Missing,Missing,Track Defect,Mechanical,2023,8,3,0
+Goalandaghat- Goalanda Bazar,24.5,89.2,Derailment,26 Down ,Passenger,Missing,Missing,Track Defect,Mechanical,2023,8,0,0
+Doulatpur- Shiromoni,24.5,89.2,Component Breaking,761 Up,Passenger,Missing,Missing,Track Defect,Mechanical,2023,8,2,0
+Rajshahi,24.35,88.6,Derailment,566 Down ,Passenger,Missing,Missing,Excess Rain,Natural,2023,9,5,0
+Kurigram,25.7833,89.4667,Derailment,798 Down Kurigram Express,Passenger,Missing,Missing,Track obstruction,Mechanical,2023,10,5,0
+Borkhata,25.3,88.9,Component Breaking,455 Up,Passenger,Missing,Missing,Material failure,Mechanical,2023,11,6,0
+Tangail,24.2,89.35,Coach Fire,Tangail Commuter-2,Passenger,Arson committed by miscreants,Missing,Malicious act,Human,2023,11,3,0
+Bangabandhu Bridge (East),23.9,89.25,Derailment,772 Down ,Passenger,Missing,Missing,Wheel flange failure,Mechanical,2023,11,1,0
+Abdulpur,24.95,88.85,Derailment,BC no- 100167,Freight,Missing,Missing,Widened Gauge,Mechanical,2023,11,2,0
+Badherhat- Kashinathpur,24.6,89.2,Derailment,Coach no W-5124,Passenger,Missing,Missing,Widened Gauge,Mechanical,2023,12,0,0
+Kaunia Junction,25.0833,88.9333,Derailment,20 Down,Passenger,Missing,Missing,Overspeeding,Human,2023,12,1,0
+Barobazar- Mehrullahngarh,23.2,89.2,Collision,24 Down ,Passenger,Crossing,truck,Level Crossing Violation,Human,2023,12,6,1
+Kaunia Junction,25.0833,88.9333,Derailment,767 Up Dolonchapa Express,Passenger,Missing,Missing,Incorrect Point,Human,2023,12,4,0
+Tangail,24.2,89.35,Derailment,982 Down,Freight,Missing,Missing,Incorrect Point,Human,2024,1,0,0
+Kauga- Dinajpur,25.5833,88.5,Collision,803 Up Banglabandha Express,Passenger,crossing,truck,Unclosed Barrier,Human,2024,1,6,0
+Chapainawabganj,24.53584705882353,89.1647050420168,Derailment,791/792 Bonolota Express,Passenger,Missing,Missing,Incorrect Point,Human,2024,1,5,0
+Bangabandhu Bridge (West),23.9,89.25,Derailment,794 Down,Passenger,Missing,Missing,Overspeeding,Human,2024,3,0,0
+Ishwardi,24.3333,89.25,Derailment,"PIK 32 Down, ISB 11 Up",Freight,Missing,Missing,Collision,Human,2024,3,1,0
+Lalmonirhat,25.9,89.3333,Collision,461 Up,Passenger,Railway Track,Missing,Coupling collision,Human,2024,3,5,2
+Mouchak,23.7333,90.4167,Parting,798 Down Kurigram Express,Passenger,Missing,Missing,Material failure,Mechanical,2024,3,5,0
+Vomradoh-Shibganj,24.95,88.75,Parting,757 Up Dhrutojan Express,Passenger,Missing,Missing,Incorrect Inspection,Human,2024,4,6,0
+Muladuli-Chatmohor,24.6,89.25,Derailment,810 no Burimari Express,Passenger,Missing,Missing,Tire failure,Mechanical,2024,5,3,0
+Kahalu,24.53584705882353,89.1647050420168,Derailment,19 Up ,Passenger,Missing,Missing,Tire failure,Mechanical,2024,5,2,0
+Gabtali,24.4,89.2,Overshooting,"492 Down, 21 Up",Passenger,Missing,Missing,Signal Violation,Human,2024,6,6,0
+B Mu C E,24.4,89.2,Derailment,793 Up ,Passenger,Overspeeding While Reversing,Missing,Absent LM,Human,2024,6,0,0
+Shukhanpukur,24.4,89.2,Derailment,492 Down ,Passenger,Missing,Missing,Track Defect,Mechanical,2024,6,1,0
+Gabtali,24.4,89.2,Derailment,491 Up ,Passenger,Missing,Missing,Track Defect,Mechanical,2024,6,6,0
+Shukhanpukur,24.4,89.2,Derailment,492 Down ,Passenger,Missing,Missing,Track Defect,Mechanical,2024,7,1,0
+Ishwardi-Ajimnagar,24.3333,89.25,Derailment,MT Pakshi-2,MOW,Missing,Missing,Track obstruction,Mechanical,2024,7,3,0
+Parbotipur- Fulbari,24.7167,88.5667,Derailment,982 Down,Freight,Missing,Missing,Incorrect Level & Overspeeding,Human,2024,7,4,0
+Chuadanga- Alamdanga,24.0,89.0,Derailment,KP 41 Up,Freight,Missing,Missing,Bearing failure,Mechanical,2024,7,1,0
+Mouchak- Joydevpur,23.7333,90.4167,Derailment,760 no Padma Express,Passenger,Missing,Missing,Tire failure,Mechanical,2024,8,4,0
+Pachbibi,24.75,88.75,Derailment,808 no Cilahati Express,Passenger,Missing,Missing,Incorrect Point,Human,2024,8,0,0
+Harian-Sardah Road,24.5,89.2,Component Breaking,803 Up,Passenger,Missing,Missing,Suspension link pin breaking,Mechanical,2024,9,0,0
+Fultola- Doulatpur,24.5,89.2,Collision,748 Down,Passenger,crossing,truck,Level Crossing Violation,Human,2024,9,3,0
+Ulipur- Balabari,25.4,88.7,Derailment,119 Up Cilmari Commuter,Passenger,Missing,Missing,Negligence,Human,2024,10,0,0
+Jamtoil,24.0,89.2,Derailment,Down,Passenger,Missing,Missing,PLC,Human,2024,10,6,0
+Uthli- Anaroshbaria,25.0,88.95,Derailment,SK 2 Down,Freight,Missing,Missing,Overspeeding,Human,2024,10,2,0
+B Mu C E,24.4,89.2,Derailment,767 Up ,Passenger,Reversing,Missing,Absent LM,Human,2024,11,2,0
+Shukhanpukur,24.4,89.2,Parting,810 Down,Passenger,Missing,Missing,Material failure,Mechanical,2024,12,5,0
+Chilahati- Mirjaganj,24.479954011116615,89.28534633210101,Collision,755 Up,Passenger,Crossing,Truck,Level Crossing Violation,Human,2021,4,1,1
+Mirjapur- Hightech City,23.755980254532474,90.31323143723412,Collision,766 no Nilsagar Express,Passenger,Crossing,Bus,Level Crossing Violation,Human,2020,11,4,1
+Fulbari,24.074980711105102,89.2,Collision,728 Down,Passenger,crossing,Bus,Level Crossing Violation,Human,2021,12,1,1
+Bangabandhu Bridge (West)- Jamtoil,24.0,89.2,Collision,728 Down,Passenger,Rail Bridge,Human,Unclosed Barrier,Human,2021,12,2,1
+Bangabandhu Bridge (West)- Jamtoil,23.75874587806799,90.30061451126612,Collision,751 Up,Passenger,Crossing,Truck,Level Crossing Violation,Human,2020,11,4,1
+Chapainawabganj,24.481833656309302,89.28128924753952,Collision,768 no Dolonchapa Express,Passenger,Crossing,Pole,Level Crossing Violation,Human,2021,4,1,1
+Amirabad- Pachuriajong,24.478429004462512,89.28863795382654,Collision,784 no Tungipara Express,Passenger,Crossing,Truck,Level Crossing Violation,Human,2021,3,1,1
+Chapainawabganj,24.507167475720447,89.22660794491048,Collision,6 Down,Passenger,Crossing,Nasimon,Level Crossing Violation,Human,2021,1,0,1
+Monthotpur,25.06611894622747,89.1791301694273,Collision,768 no Dolonchapa Express,Passenger,crossing,Pole,Level Crossing Violation,Human,2021,6,2,1
+Mirjapur- Hightech City,23.39562567009862,89.2362639103505,Collision,766 no Nilsagar Express,Passenger,Crossing,Truck,Unclosed Barrier,Human,2020,11,4,1
+Barobazar- Mehrullahngarh,23.63438414675889,89.22193782870761,Collision,24 Down ,Passenger,Crossing,Truck,Unclosed Barrier,Human,2020,11,4,1
+Baharpur- Kashiani,25.322743597890774,89.2,Collision,57 Up,Passenger,Crossing,Truck,Level Crossing Violation,Human,2020,9,0,1
+Bangabandhu Bridge (East),23.917986780947118,89.24758718436478,Collision,795 Up,Passenger,Crossing,Motorcycle,Level Crossing Violation,Human,2022,1,4,1
+Amirabad- Pachuriajong,24.53584705882353,89.1647050420168,Collision,28 Down,Passenger,Crossing,Truck,Level Crossing Violation,Human,2022,6,3,1
+Baharpur- Kashiani,24.871018029430875,89.2,Collision,784 no Tungipara Express,Passenger,Passenger ,Nasimon,Level Crossing Violation,Human,2020,10,0,1
+Chapainawabganj,23.06250452407531,89.51179924598745,Collision,755 Up,Passenger,Crossing,Truck,Level Crossing Violation,Human,2020,1,1,1
+Monthotpur,25.501063401491194,89.19096207930731,Collision,768 no Dolonchapa Express,Passenger,Passenger ,Truck,Level Crossing Violation,Human,2021,7,1,1
+Amirabad- Pachuriajong,23.1900100120848,89.4864428212946,Collision,755 Up,Passenger,Crossing,Truck,Level Crossing Violation,Human,2020,1,0,1
+Monthotpur,24.88577316918194,89.2,Collision,57 Up,Passenger,Crossing,Nasimon,Level Crossing Violation,Human,2020,10,0,1
+Bangabandhu Bridge (West)- Jamtoil,24.199603477461295,89.15009913063467,Collision,728 Down,Passenger,Crossing,Missing,Kids,Human,2021,12,2,1
+Bangabandhu Bridge (West)- Jamtoil,24.0,89.2,Collision,766 no Nilsagar Express,Passenger,Crossing,Bus,Level Crossing Violation,Human,2021,12,3,1
+Amirabad- Pachuriajong,24.797568231185362,89.17182471278764,Collision,28 Down,Passenger,Crossing,Truck,Level Crossing Violation,Human,2021,6,2,1
+Amirabad- Pachuriajong,24.389650596513086,89.19965498282578,Collision,53 Up Betna Express,Passenger,Crossing,Nasimon,Level Crossing Violation,Human,2021,1,0,1
+Bespur- Narail Banmalipur,24.49080913551247,89.261916294469,Collision,Bhatiapara Express-2,Passenger,Crossing,Pole,Level Crossing Violation,Human,2021,4,1,1
+Amirabad- Pachuriajong,24.20980156458701,89.30632755719763,Collision,53 Up Betna Express,Passenger,Crossing,Motorcycle,Level Crossing Violation,Human,2021,2,2,1
+Bangabandhu Bridge (West)- Jamtoil,23.18986068567799,89.2152241956787,Collision,766 no Nilsagar Express,Passenger,Crossing,Truck,Unclosed Barrier,Human,2022,11,5,1
+Baharpur- Kashiani,25.652523994682703,89.19508230217102,Collision,57 Up,Passenger,Crossing,Pole,Level Crossing Violation,Human,2021,7,1,1
+Fulbari,25.08795128270007,88.92801217932498,Collision,727 Up Rupsha Express ,Passenger,Crossing,Human,Level Crossing Violation,Human,2021,12,2,1
+Bangabandhu Bridge (West)- Jamtoil,25.260158908698326,88.66000849008,Collision,759 Up Padma Express,Passenger,Missing,Missing,Level Crossing Violation,Human,2020,12,1,1
+Nachal- Rohonpur,25.536020407844802,88.84137755113065,Collision,57 Up,Passenger,Crossing,Missing,Level Crossing Violation,Human,2020,12,1,1
+Amirabad- Pachuriajong,24.454905852889862,89.33941105475765,Collision,755 Up,Passenger,Crossing,Truck,Level Crossing Violation,Human,2021,3,1,1
+Jessore- Rupdiya,23.5009654067751,89.22994327332442,Collision,716 Down,Passenger,Crossing,Bus,Level Crossing Violation,Human,2020,11,4,1
+Bangabandhu Bridge (West)- Jamtoil,24.591564520088088,89.01177386820558,Collision,57 Up,Passenger,Rail Bridge,Bus,Level Crossing Violation,Human,2020,12,0,1
+Nilphamari- Sayedpur,24.05976608049237,89.2,Collision,759 Up Padma Express,Passenger,Rail Bridge,Bus,Level Crossing Violation,Human,2021,12,1,1
+Mirjapur- Hightech City,23.179209010197145,89.2312177024067,Collision,716 Down,Passenger,Crossing,Truck,Unclosed Barrier,Human,2021,11,5,1
+Nilphamari- Sayedpur,24.532140634507886,89.06696484137304,Collision,727 Up Rupsha Express ,Passenger,Missing,Missing,Unclosed Barrier,Human,2021,12,2,1
+Khulna,23.101651722050917,89.50527471299151,Collision,6 Down,Passenger,Crossing,Truck,Level Crossing Violation,Human,2020,1,1,1
+Chilahati- Mirjaganj,24.53584705882353,89.1647050420168,Collision,28 Down,Passenger,Crossing,Truck,Level Crossing Violation,Human,2022,6,3,1
+Jessore- Rupdiya,23.60953164827294,90.16184554189913,Collision,716 Down,Passenger,Crossing,Truck,Level Crossing Violation,Human,2020,11,5,1
+Chapainawabganj,24.485756153995414,89.27282280670977,Collision,Bhatiapara Express-2,Passenger,Crossing,Pole,Level Crossing Violation,Human,2021,4,1,1
+Bangabandhu Bridge (West)- Jamtoil,23.262246637918565,89.34201290897342,Collision,24 Down ,Passenger,Crossing,Truck,Level Crossing Violation,Human,2022,11,5,1
+Baharpur- Kashiani,24.508002992726173,89.22480453905604,Collision,755 Up,Passenger,Crossing,Truck,Level Crossing Violation,Human,2021,5,2,1
+Bangabandhu Bridge (West)- Jamtoil,24.70232963623946,88.6585916416639,Collision,759 Up Padma Express,Passenger,Rail Bridge,Human,Level Crossing Violation,Human,2020,12,1,1
+Amirabad- Pachuriajong,23.21336290387671,89.4431106485769,Collision,755 Up,Passenger,Crossing,Motorcycle,Level Crossing Violation,Human,2020,1,5,1
+Bangabandhu Bridge (West)- Jamtoil,24.893171558454245,88.59883169879431,Collision,759 Up Padma Express,Passenger,Missing,Missing,Level Crossing Violation,Human,2020,12,1,1
+Nilphamari- Sayedpur,24.853771924200025,89.07754048777691,Collision,759 Up Padma Express,Passenger,Rail Bridge,Missing,Level Crossing Violation,Human,2020,12,0,1
+Jessore- Rupdiya,23.38788685871529,89.62865543033733,Collision,24 Down ,Passenger,Crossing,Truck,Level Crossing Violation,Human,2021,11,5,1
+Nachal- Rohonpur,25.799063321408433,88.7502341696479,Collision,727 Up Rupsha Express ,Passenger,crossing,Missing,Level Crossing Violation,Human,2021,12,2,1
+Amirabad- Pachuriajong,23.627794412484263,89.38178544012925,Collision,53 Up Betna Express,Passenger,Crossing,Nasimon,Level Crossing Violation,Human,2020,1,0,1
+Chapainawabganj,24.04869451738332,89.3957171887237,Collision,Bhatiapara Express-2,Passenger,Crossing,Pole,Level Crossing Violation,Human,2020,2,1,1
+Mirjapur- Hightech City,23.862792277575988,89.20823279265716,Collision,766 no Nilsagar Express,Passenger,Crossing,Bus,Level Crossing Violation,Human,2020,11,4,1
+Bangabandhu Bridge (West)- Jamtoil,23.182214822334796,89.22670447096877,Collision,716 Down,Passenger,Crossing,Truck,Unclosed Barrier,Human,2021,11,5,1
+Jessore- Rupdiya,23.458595338228,89.85104887241548,Collision,716 Down,Passenger,Crossing,Truck,Level Crossing Violation,Human,2020,11,5,1
+Bangabandhu Bridge (West)- Jamtoil,25.246384859202486,88.88840378519937,Collision,751 Up,Passenger,Crossing,Truck,Level Crossing Violation,Human,2021,12,2,1
+Barobazar- Mehrullahngarh,23.805152269424067,90.08890601346734,Collision,751 Up,Passenger,Crossing,Truck,Level Crossing Violation,Human,2020,11,4,1
+Bangabandhu Bridge (West)- Jamtoil,23.19187062010915,89.2122062761124,Collision,716 Down,Passenger,Crossing,Truck,Unclosed Barrier,Human,2022,11,5,1
+Amirabad- Pachuriajong,24.29981095259754,89.22113217993113,Collision,755 Up,Passenger,Crossing,Motorcycle,Level Crossing Violation,Human,2021,1,0,1
+Nilphamari- Sayedpur,24.78439348544499,89.10155610119212,Collision,727 Up Rupsha Express ,Passenger,Missing,Bus,Level Crossing Violation,Human,2020,12,0,1
+Nilphamari- Sayedpur,25.358102002017343,88.67633560373629,Collision,728 Down,Passenger,Rail Bridge,Truck,Level Crossing Violation,Human,2020,12,1,1
+Bespur- Narail Banmalipur,24.279069017209718,89.1991502312593,Collision,795 Up,Passenger,Crossing,Motorcycle,Level Crossing Violation,Human,2022,1,2,1
+Monthotpur,24.53584705882353,89.1647050420168,Collision,755 Up,Passenger,Crossing,Truck,Level Crossing Violation,Human,2022,6,3,1
+Amirabad- Pachuriajong,23.104151572043765,89.4738253758197,Collision,795 Up,Passenger,Crossing,Motorcycle,Level Crossing Violation,Human,2020,1,5,1
+Amirabad- Pachuriajong,23.479555295828213,89.41722370088347,Collision,6 Down,Passenger,Crossing,Nasimon,Level Crossing Violation,Human,2020,1,0,1
+Bangabandhu Bridge (East),23.959015117900087,89.41073914543203,Collision,795 Up,Passenger,Crossing,Motorcycle,Level Crossing Violation,Human,2020,2,2,1
+Monthotpur,24.474700723592015,89.29668519104952,Collision,28 Down,Passenger,Crossing,Truck,Level Crossing Violation,Human,2021,4,1,1
+Bespur- Narail Banmalipur,22.99126432818129,89.50557392101398,Collision,Bhatiapara Express-2,Passenger,Crossing,Motorcycle,Level Crossing Violation,Human,2020,1,5,1
+Jessore- Rupdiya,23.733902612637447,90.41395084815905,Collision,716 Down,Passenger,Crossing,Bus,Level Crossing Violation,Human,2020,11,4,1
+Nilphamari- Sayedpur,24.586575188579772,88.74782385150357,Collision,759 Up Padma Express,Passenger,crossing,Bus,Level Crossing Violation,Human,2020,12,1,1
+Bangabandhu Bridge (West)- Jamtoil,24.042093079501225,89.1894767301247,Collision,759 Up Padma Express,Passenger,Missing,Bus,Level Crossing Violation,Human,2021,12,2,1
+Fulbari,24.739866623972816,89.0150333440068,Collision,727 Up Rupsha Express ,Passenger,Missing,Human,Unclosed Barrier,Human,2021,12,2,1
+Bangabandhu Bridge (East),24.533009750612056,89.17082917618093,Collision,755 Up,Passenger,Crossing,Motorcycle,Level Crossing Violation,Human,2021,1,0,1
+Bangabandhu Bridge (West)- Jamtoil,23.36221736913192,89.65259462507274,Collision,766 no Nilsagar Express,Passenger,Crossing,Truck,Unclosed Barrier,Human,2020,11,5,1
+Bespur- Narail Banmalipur,24.132496622034417,89.21881201330969,Collision,795 Up,Passenger,Crossing,Motorcycle,Level Crossing Violation,Human,2022,1,3,1
+Fulbari,25.384917087021197,88.89368254680035,Collision,759 Up Padma Express,Passenger,Rail Bridge,Human,Level Crossing Violation,Human,2020,12,1,1
+Khulna,23.33365207997561,89.40928037499513,Collision,Bhatiapara Express-2,Passenger,Crossing,Motorcycle,Level Crossing Violation,Human,2020,1,5,1
+Mirjapur- Hightech City,23.438802761666828,89.74481777633609,Collision,716 Down,Passenger,Crossing,Truck,Unclosed Barrier,Human,2021,11,5,1
+Fulbari,24.223553455464337,89.2,Collision,759 Up Padma Express,Passenger,Missing,Missing,Level Crossing Violation,Human,2021,12,1,1
+Barobazar- Mehrullahngarh,23.891372216258635,89.69556589605594,Collision,751 Up,Passenger,Crossing,Truck,Level Crossing Violation,Human,2020,11,4,1
+Bangabandhu Bridge (West)- Jamtoil,24.60510932423253,89.16361600315028,Collision,728 Down,Passenger,crossing,Bus,Level Crossing Violation,Human,2020,12,0,1
+Baharpur- Kashiani,25.353690738764143,89.18695306150501,Collision,768 no Dolonchapa Express,Passenger,Passenger ,Truck,Level Crossing Violation,Human,2021,7,1,1
+Amirabad- Pachuriajong,24.53584705882353,89.1647050420168,Collision,28 Down,Passenger,Crossing,Truck,Level Crossing Violation,Human,2022,6,3,1
+Monthotpur,24.51894718590946,89.20118225258695,Collision,768 no Dolonchapa Express,Passenger,Crossing,Motorcycle,Level Crossing Violation,Human,2021,5,2,1
+Nachal- Rohonpur,24.658909809666188,88.87333440126287,Collision,728 Down,Passenger,Crossing,Human,Level Crossing Violation,Human,2020,12,0,1
+Bangabandhu Bridge (West)- Jamtoil,24.786738512715875,88.59352294901015,Collision,728 Down,Passenger,Missing,Missing,Level Crossing Violation,Human,2020,12,1,1
+Nachal- Rohonpur,24.480940446044357,88.82925503365556,Collision,728 Down,Passenger,Rail Bridge,Bus,Level Crossing Violation,Human,2020,12,1,1
+Bangabandhu Bridge (West)- Jamtoil,23.172812818621793,89.24082159366097,Collision,716 Down,Passenger,Crossing,Truck,Unclosed Barrier,Human,2020,11,5,1
+Nachal- Rohonpur,24.768866444858098,89.2,Collision,784 no Tungipara Express,Passenger,Passenger ,Pole,Level Crossing Violation,Human,2020,11,0,1
+Bangabandhu Bridge (West)- Jamtoil,25.528708420862227,88.81782289478444,Collision,727 Up Rupsha Express ,Passenger,crossing,Truck,Level Crossing Violation,Human,2021,12,2,1
+Nachal- Rohonpur,25.29180122325928,88.66528326391732,Collision,727 Up Rupsha Express ,Passenger,Crossing,Truck,Level Crossing Violation,Human,2020,12,1,1
+Fulbari,24.556650245432706,88.77089224205206,Collision,728 Down,Passenger,Missing,Missing,Unclosed Barrier,Human,2020,12,1,1
+Monthotpur,25.64952721471381,89.19500077996722,Collision,28 Down,Passenger,Crossing,Truck,Level Crossing Violation,Human,2021,7,1,1
+Mirjapur- Hightech City,23.91306675998266,89.59659419995914,Collision,716 Down,Passenger,Crossing,Bus,Level Crossing Violation,Human,2020,11,4,1
+Fulbari,24.389879476217224,89.2,Collision,759 Up Padma Express,Passenger,Missing,Missing,Level Crossing Violation,Human,2020,12,0,1
+Nilphamari- Sayedpur,24.568919625950414,88.76143408334548,Collision,728 Down,Passenger,Missing,Human,Kids,Human,2020,12,1,1
+Chapainawabganj,24.199170027452162,89.37857484307904,Collision,53 Up Betna Express,Passenger,Crossing,Truck,Level Crossing Violation,Human,2020,2,1,1
+Fulbari,25.451334012708273,88.69187737991847,Collision,57 Up,Passenger,crossing,Missing,Level Crossing Violation,Human,2020,12,1,1
+Jessore- Rupdiya,23.6788063661516,90.30449081784164,Collision,24 Down ,Passenger,Crossing,Truck,Level Crossing Violation,Human,2020,11,5,1
+Bangabandhu Bridge (West)- Jamtoil,23.231718943047692,89.2723653440955,Collision,751 Up,Passenger,Crossing,Truck,Level Crossing Violation,Human,2022,11,5,1
+Monthotpur,25.30321722428401,89.2,Collision,768 no Dolonchapa Express,Passenger,Passenger ,Pole,Level Crossing Violation,Human,2020,9,0,1
+Chapainawabganj,23.815023203239534,89.42233729742088,Collision,53 Up Betna Express,Passenger,Crossing,Truck,Level Crossing Violation,Human,2020,2,1,1
+Nilphamari- Sayedpur,25.507878190633193,88.8230304523417,Collision,751 Up,Passenger,Missing,Truck,Unclosed Barrier,Human,2021,12,2,1
+Bangabandhu Bridge (West)- Jamtoil,23.913506554214376,89.59458783459831,Collision,751 Up,Passenger,Crossing,Truck,Level Crossing Violation,Human,2020,11,4,1
+Baharpur- Kashiani,24.85303634821628,89.2,Collision,57 Up,Passenger,Passenger ,Pole,Level Crossing Violation,Human,2020,10,0,1
+Mirjapur- Hightech City,23.340919381560735,89.23954641896312,Collision,24 Down ,Passenger,Crossing,Bus,Unclosed Barrier,Human,2020,11,4,1
+Nilphamari- Sayedpur,25.341447973827567,88.67355937723705,Collision,759 Up Padma Express,Passenger,Crossing,Bus,Level Crossing Violation,Human,2020,12,1,1
+Barobazar- Mehrullahngarh,23.918865699305332,89.57013912131684,Collision,24 Down ,Passenger,Crossing,Truck,Level Crossing Violation,Human,2020,11,4,1
+Amirabad- Pachuriajong,24.215294897957673,89.2413367119724,Collision,Bhatiapara Express-2,Passenger,Crossing,Motorcycle,Level Crossing Violation,Human,2021,1,0,1
+Bangabandhu Bridge (East),24.29046454039844,89.2233665469464,Collision,Bhatiapara Express-2,Passenger,Crossing,Motorcycle,Level Crossing Violation,Human,2021,1,0,1
+Khulna,24.440192588831188,89.34821683433294,Collision,Bhatiapara Express-2,Passenger,Crossing,Missing,Level Crossing Violation,Human,2021,2,1,1
+Bangabandhu Bridge (East),22.988290767381304,89.52416820543645,Collision,Bhatiapara Express-2,Passenger,Crossing,Motorcycle,Level Crossing Violation,Human,2020,1,2,1
+Chilahati- Mirjaganj,24.513455641308973,89.2130353730078,Collision,768 no Dolonchapa Express,Passenger,Crossing,Truck,Level Crossing Violation,Human,2021,5,2,1
+Amirabad- Pachuriajong,24.45032160885725,89.34930582945405,Collision,784 no Tungipara Express,Passenger,Crossing,Truck,Level Crossing Violation,Human,2021,3,1,1
+Lalmonirhat,25.38612103176513,89.2697899635203,Collision,Engine no 2402,Passenger,Crossing,Private Car,Level Crossing Violation,Human,2023,4,4,2
+Onnodangor,24.088119440100666,89.27751226140325,Collision,461 Up,Freight,Railway Track,Missing,Coupling collision,Human,2020,8,3,2
+Onnodangor,25.814196227113868,89.33753934196407,Collision,Engine no 2402,Freight,Crossing,Missing,Level Crossing Violation,Human,2023,3,4,2
+Lalmonirhat,24.540248373329696,89.23787761433842,Collision,Engine no 2402,Passenger,Crossing,Private Car,Level Crossing Violation,Human,2021,5,2,2
+Alamdanga- Halsa,24.088897763940878,89.35498972757918,Collision,Engine no 2402,Freight,Missing,Missing,Level Crossing Violation,Human,2020,7,2,2
+Lalmonirhat,25.531141472903922,89.28771296499798,Collision,Missing,Passenger,Crossing,Missing,Level Crossing Violation,Human,2023,3,4,2
+Onnodangor,25.030274100281755,89.225811024905,Collision,Missing,Freight,Crossing,Missing,Level Crossing Violation,Human,2022,4,3,2
+Lalmonirhat,23.943767532997597,89.34082291007016,Collision,Missing,Passenger,Missing,Missing,Signal Violation,Human,2020,9,3,2
+Onnodangor,25.18002043785063,89.24431809748351,Collision,Missing,Passenger,Crossing,Private Car,Level Crossing Violation,Human,2022,4,3,2
+Singiya,25.73854776798329,89.34127693620408,Collision,Missing,Freight,Crossing,Missing,Level Crossing Violation,Human,2023,3,4,2
+Alamdanga- Halsa,24.937119537248957,89.38087342730778,Collision,DSB 9 Up,Freight,Crossing,Missing,Level Crossing Violation,Human,2021,3,1,2
+Lalmonirhat,24.546614404864545,89.34371392806537,Collision,461 Up,Passenger,Crossing,Auto,Level Crossing Violation,Human,2020,3,0,2
+Alamdanga- Halsa,24.25022070909924,89.37073718907789,Collision,DSB 9 Up,Freight,Crossing,Missing,Signal Violation,Human,2020,6,1,2
+Alamdanga- Halsa,24.382590420916067,89.20331882068913,Collision,461 Up,Freight,Crossing,Missing,Coupling collision,Human,2021,6,3,2
+Lalmonirhat,24.542835718852075,89.28089265611565,Collision,Missing,Passenger,Crossing,Auto,Level Crossing Violation,Human,2021,4,1,2
+Lalmonirhat,24.543245265808785,89.28770144114269,Collision,Missing,Passenger,Crossing,Private Car,Level Crossing Violation,Human,2020,4,1,2
+Lalmonirhat,24.257861222155604,89.37148301407548,Collision,DSB 9 Up,Passenger,Missing,Missing,Coupling collision,Human,2020,5,1,2
+Alamdanga- Halsa,23.91838471040877,89.3333,Collision,Engine no 2402,Freight,Missing,Missing,Coupling collision,Human,2020,9,4,2
+Lalmonirhat,23.940422212064526,89.34049635818045,Collision,461 Up,Freight,Missing,Missing,Signal Violation,Human,2020,9,3,2
+Alamdanga- Halsa,24.59242940067709,89.3979036733147,Collision,DSB 9 Up,Passenger,Missing,Missing,Coupling collision,Human,2020,3,0,2
+Lalmonirhat,24.54485413793824,89.31444920299519,Collision,Missing,Passenger,Crossing,Private Car,Level Crossing Violation,Human,2020,4,1,2
+Alamdanga- Halsa,25.260819983677504,89.3333,Collision,DSB 9 Up,Freight,Crossing,Private Car,Level Crossing Violation,Human,2022,5,4,2
+Alamdanga- Halsa,24.90077678634519,89.3333,Collision,461 Up,Freight,Crossing,Missing,Signal Violation,Human,2022,6,4,2
+Alamdanga- Halsa,25.775214739800223,89.33946531618912,Collision,DSB 9 Up,Passenger,Missing,Missing,Coupling collision,Human,2023,3,4,2
+Alamdanga- Halsa,25.393114110471593,89.3333,Collision,DSB 9 Up,Freight,Crossing,Missing,Level Crossing Violation,Human,2023,4,4,2
+Lalmonirhat,24.147114651310247,89.36067254096648,Collision,DSB 9 Up,Freight,Crossing,Missing,Signal Violation,Human,2020,7,2,2
+Alamdanga- Halsa,24.539306729180385,89.22222262660236,Collision,Missing,Passenger,Missing,Missing,Coupling collision,Human,2021,5,2,2
+Onnodangor,25.434784690105882,89.3333,Collision,Engine no 2402,Freight,Crossing,Private Car,Level Crossing Violation,Human,2023,4,4,2
+Alamdanga- Halsa,25.79498762959555,89.32032157533686,Collision,Missing,Freight,Crossing,Missing,Level Crossing Violation,Human,2023,3,4,2
+Onnodangor,24.455851629209565,89.3333,Collision,DSB 9 Up,Freight,Crossing,Missing,Coupling collision,Human,2021,7,4,2
+Alamdanga- Halsa,25.57218875662643,89.3333,Collision,Engine no 2402,Freight,Crossing,Auto,Level Crossing Violation,Human,2023,4,4,2
+Lalmonirhat,23.913742609163357,89.32144737865057,Collision,461 Up,Passenger,Crossing,Private Car,Level Crossing Violation,Human,2020,9,3,2
+Alamdanga- Halsa,24.53856271980452,89.20985334924502,Collision,461 Up,Passenger,Crossing,Missing,Signal Violation,Human,2021,5,2,2
+Singiya,25.044904928710928,89.37554803055924,Collision,Missing,Freight,Crossing,Missing,Level Crossing Violation,Human,2021,3,1,2
+Singiya,24.72352820324658,89.39142642136552,Collision,Engine no 2402,Freight,Crossing,Auto,Level Crossing Violation,Human,2020,3,0,2
+Singiya,24.803668372556672,89.19780493996292,Collision,Engine no 2402,Freight,Crossing,Missing,Level Crossing Violation,Human,2022,5,3,2
+Alamdanga- Halsa,25.520647099267023,89.3333,Collision,Missing,Freight,Crossing,Auto,Level Crossing Violation,Human,2023,4,4,2
+Singiya,24.08515978837033,89.3333,Collision,DSB 9 Up,Freight,Crossing,Private Car,Level Crossing Violation,Human,2020,9,4,2
+Alamdanga- Halsa,24.181467446099038,89.36402587246423,Collision,DSB 9 Up,Passenger,Missing,Missing,Signal Violation,Human,2020,6,2,2
+Singiya,24.258231932504913,89.3333,Collision,Missing,Freight,Crossing,Auto,Level Crossing Violation,Human,2020,8,4,2
+Singiya,25.75825264117681,89.3157815170765,Collision,Missing,Passenger,Crossing,Missing,Level Crossing Violation,Human,2023,3,4,2
+Lalmonirhat,24.079491089973086,89.27968621749861,Collision,DSB 9 Up,Freight,Missing,Missing,Level Crossing Violation,Human,2020,8,3,2
+Lalmonirhat,24.462206137207968,89.18325924160852,Collision,Engine no 2402,Passenger,Crossing,Private Car,Level Crossing Violation,Human,2021,6,3,2
+Alamdanga- Halsa,24.39425190343509,89.38479672465846,Collision,461 Up,Passenger,Railway Track,Missing,Coupling collision,Human,2020,4,0,2
+Alamdanga- Halsa,24.158542751968323,89.36178808950137,Collision,Engine no 2402,Freight,Crossing,Missing,Signal Violation,Human,2020,7,2,2
+Singiya,23.991050510445163,89.34543841511297,Collision,DSB 9 Up,Passenger,Missing,Missing,Level Crossing Violation,Human,2020,8,3,2
+Singiya,25.710015215533208,89.30981987853575,Collision,461 Up,Passenger,Crossing,Private Car,Level Crossing Violation,Human,2023,3,4,2
+Alamdanga- Halsa,23.871450390791964,89.33376370710643,Collision,461 Up,Freight,Crossing,Missing,Signal Violation,Human,2020,9,3,2
+Onnodangor,24.194082003501702,89.2508144620349,Collision,Missing,Passenger,Crossing,Private Car,Level Crossing Violation,Human,2020,8,3,2
+Onnodangor,25.10525950644836,89.23507843255439,Collision,Missing,Passenger,Crossing,Missing,Level Crossing Violation,Human,2022,4,3,2
+Singiya,24.849845544135487,89.38518540904161,Collision,Missing,Passenger,Missing,Missing,Level Crossing Violation,Human,2020,3,1,2
+Alamdanga- Halsa,23.94690755800614,89.31309130343074,Collision,461 Up,Freight,Railway Track,Missing,Level Crossing Violation,Human,2020,9,3,2
+Onnodangor,24.309932859864592,89.22162525765408,Collision,Engine no 2402,Passenger,Crossing,Auto,Level Crossing Violation,Human,2021,7,3,2
+Alamdanga- Halsa,23.982781699034675,89.3333,Collision,Missing,Freight,Crossing,Private Car,Level Crossing Violation,Human,2020,9,4,2
+Lalmonirhat,24.98632395822802,89.37844236443422,Collision,Missing,Passenger,Crossing,Missing,Level Crossing Violation,Human,2021,3,1,2
+Singiya,25.192290247494018,89.2458345169251,Collision,DSB 9 Up,Freight,Crossing,Auto,Level Crossing Violation,Human,2022,4,3,2
+Lalmonirhat,24.065423990181642,89.28323049385313,Collision,Missing,Passenger,Crossing,Auto,Level Crossing Violation,Human,2020,8,3,2
+Onnodangor,25.403953608415456,89.27199388246541,Collision,DSB 9 Up,Freight,Crossing,Auto,Level Crossing Violation,Human,2023,4,4,2
+Onnodangor,24.530718697123234,89.3981178649175,Collision,DSB 9 Up,Freight,Missing,Missing,Level Crossing Violation,Human,2020,3,0,2
+Alamdanga- Halsa,25.84930384817185,89.33580476542735,Collision,Missing,Passenger,Railway Track,Missing,Level Crossing Violation,Human,2023,3,4,2
+Alamdanga- Halsa,24.03517938271538,89.29085077441441,Collision,DSB 9 Up,Freight,Missing,Missing,Level Crossing Violation,Human,2020,8,3,2
+Alamdanga- Halsa,24.888944612969013,89.3333,Collision,DSB 9 Up,Freight,Crossing,Missing,Level Crossing Violation,Human,2022,6,4,2
+Alamdanga- Halsa,25.28822413264956,89.3333,Collision,Engine no 2402,Freight,Crossing,Private Car,Level Crossing Violation,Human,2022,5,4,2
+Onnodangor,24.924413056994712,89.21272771319829,Collision,Engine no 2402,Passenger,Crossing,Auto,Level Crossing Violation,Human,2022,5,3,2
+Singiya,25.824997769944027,89.3333,Collision,Missing,Freight,Crossing,Auto,Level Crossing Violation,Human,2023,3,4,2
+Lalmonirhat,24.54447418698562,89.30813245636867,Collision,Engine no 2402,Passenger,Crossing,Missing,Level Crossing Violation,Human,2020,4,1,2
+Alamdanga- Halsa,24.20651942342772,89.36647130915064,Collision,Missing,Passenger,Crossing,Missing,Signal Violation,Human,2020,6,2,2
+Lalmonirhat,24.549271424261722,89.38788730938761,Collision,Missing,Passenger,Railway Track,Missing,Signal Violation,Human,2020,3,0,2
+Alamdanga- Halsa,24.053155461995505,89.28632161106985,Collision,Engine no 2402,Freight,Missing,Missing,Coupling collision,Human,2020,8,3,2
+Lalmonirhat,25.77615894605498,89.33941866540601,Collision,461 Up,Passenger,Missing,Missing,Signal Violation,Human,2023,3,4,2
+Lalmonirhat,24.539237564170264,89.22107274701567,Collision,Engine no 2402,Passenger,Crossing,Auto,Level Crossing Violation,Human,2021,5,2,2
+Alamdanga- Halsa,23.963655977498455,89.3088714551278,Collision,461 Up,Freight,Railway Track,Missing,Coupling collision,Human,2020,9,3,2
+Singiya,25.21076122637471,89.3673535008895,Collision,DSB 9 Up,Passenger,Railway Track,Missing,Signal Violation,Human,2021,3,2,2
+Alamdanga- Halsa,25.870823068343082,89.3333,Collision,Engine no 2402,Freight,Railway Track,Missing,Level Crossing Violation,Human,2023,3,4,2
+Alamdanga- Halsa,24.358870983564334,89.3333,Collision,Engine no 2402,Freight,Missing,Missing,Level Crossing Violation,Human,2020,8,4,2
+Alamdanga- Halsa,24.983104316137016,89.21998133562609,Collision,Missing,Freight,Crossing,Auto,Level Crossing Violation,Human,2022,5,3,2
+Lalmonirhat,24.37633552553952,89.20489477295448,Collision,Engine no 2402,Freight,Crossing,Missing,Signal Violation,Human,2021,6,3,2
+Onnodangor,24.349888418199747,89.3333,Collision,461 Up,Freight,Missing,Missing,Coupling collision,Human,2020,8,4,2
+Alamdanga- Halsa,25.533092070626008,89.35142796954759,Collision,Missing,Passenger,Railway Track,Missing,Signal Violation,Human,2022,3,3,2
+Singiya,25.398287557785935,89.27129361819226,Collision,Missing,Freight,Crossing,Missing,Level Crossing Violation,Human,2023,4,4,2
+Singiya,24.614332554654077,89.3333,Collision,DSB 9 Up,Freight,Crossing,Private Car,Level Crossing Violation,Human,2021,7,4,2
+Singiya,25.405265109527207,89.35774356829225,Collision,461 Up,Passenger,Missing,Missing,Signal Violation,Human,2022,3,3,2
+Alamdanga- Halsa,25.169121388911524,89.24297108964996,Collision,Engine no 2402,Freight,Crossing,Private Car,Level Crossing Violation,Human,2022,4,3,2
+Alamdanga- Halsa,23.92711713407376,89.31807760001136,Collision,461 Up,Freight,Missing,Missing,Signal Violation,Human,2020,9,3,2
+Onnodangor,24.547669045908165,89.36124750761974,Collision,Engine no 2402,Passenger,Crossing,Auto,Level Crossing Violation,Human,2020,3,0,2
+Lalmonirhat,24.973440127925503,89.21878694359256,Collision,Engine no 2402,Passenger,Crossing,Missing,Level Crossing Violation,Human,2022,5,3,2
+Alamdanga- Halsa,25.520751912803977,89.3333,Collision,Missing,Freight,Crossing,Private Car,Level Crossing Violation,Human,2023,4,4,2
+Onnodangor,24.50856249277905,89.17157952529399,Collision,Engine no 2402,Passenger,Crossing,Missing,Level Crossing Violation,Human,2021,6,3,2
+Onnodangor,24.544209931890066,89.30373917225685,Collision,Missing,Passenger,Crossing,Missing,Level Crossing Violation,Human,2020,4,1,2
+Lalmonirhat,24.329679728446834,89.37849354293488,Collision,Engine no 2402,Freight,Missing,Missing,Coupling collision,Human,2020,5,1,2
+Lalmonirhat,24.572393569052608,89.39889359181052,Collision,DSB 9 Up,Passenger,Crossing,Missing,Signal Violation,Human,2020,3,0,2
+Lalmonirhat,24.2166131867359,89.36745660698857,Collision,DSB 9 Up,Freight,Missing,Missing,Signal Violation,Human,2020,6,1,2
+Singiya,24.539052640206627,89.21799835592537,Collision,Engine no 2402,Passenger,Crossing,Auto,Level Crossing Violation,Human,2021,5,2,2
+Singiya,25.01988564039592,89.22452712050902,Collision,Engine no 2402,Freight,Crossing,Auto,Level Crossing Violation,Human,2022,4,3,2
+Onnodangor,24.41917027569728,89.19410234278858,Collision,461 Up,Passenger,Crossing,Missing,Level Crossing Violation,Human,2021,6,3,2
+Onnodangor,24.495116297116258,89.3333,Collision,Engine no 2402,Freight,Crossing,Auto,Level Crossing Violation,Human,2021,7,4,2
+Alamdanga- Halsa,25.11365102036712,89.3333,Collision,DSB 9 Up,Freight,Crossing,Missing,Level Crossing Violation,Human,2022,5,4,2
+Onnodangor,23.9953469139016,89.3333,Collision,DSB 9 Up,Freight,Crossing,Auto,Level Crossing Violation,Human,2020,9,4,2
+Singiya,24.443825323521605,89.1878903798169,Collision,Missing,Passenger,Crossing,Auto,Level Crossing Violation,Human,2021,6,3,2
+Alamdanga- Halsa,24.545172907996314,89.31974880726015,Collision,461 Up,Passenger,Missing,Missing,Signal Violation,Human,2020,4,1,2
+Onnodangor,24.459916585831042,89.18383610556256,Collision,Missing,Passenger,Crossing,Private Car,Level Crossing Violation,Human,2021,6,3,2
+Singiya,25.797270577885342,89.3206037237378,Collision,Engine no 2402,Passenger,Crossing,Missing,Level Crossing Violation,Human,2023,3,4,2
+Onnodangor,23.94877801091851,89.31262003343707,Collision,461 Up,Passenger,Crossing,Auto,Level Crossing Violation,Human,2020,9,3,2
+Onnodangor,24.539497691507545,89.22539740647215,Collision,Engine no 2402,Passenger,Crossing,Auto,Level Crossing Violation,Human,2021,5,2,2
+Singiya,24.54065928461907,89.24470908161881,Collision,461 Up,Passenger,Crossing,Missing,Level Crossing Violation,Human,2021,4,1,2
+Onnodangor,24.23834210033087,89.3333,Collision,Engine no 2402,Freight,Crossing,Missing,Level Crossing Violation,Human,2020,8,4,2
+Lalmonirhat,24.543704783251226,89.29534099365434,Collision,461 Up,Passenger,Crossing,Private Car,Level Crossing Violation,Human,2020,4,1,2
+Singiya,24.543343172303086,89.28932915259686,Collision,Missing,Passenger,Crossing,Auto,Level Crossing Violation,Human,2020,4,1,2
+Singiya,25.573499407284388,89.34943154780305,Collision,Missing,Freight,Crossing,Missing,Level Crossing Violation,Human,2023,3,3,2
+Alamdanga- Halsa,24.48638287875823,89.39379004538735,Collision,461 Up,Passenger,Missing,Missing,Level Crossing Violation,Human,2020,3,0,2
+Lalmonirhat,24.537301758155085,89.18888965593051,Collision,461 Up,Passenger,Railway Track,Missing,Signal Violation,Human,2021,5,2,2
+Singiya,24.548590622620793,89.37656887094437,Collision,Missing,Passenger,Crossing,Missing,Level Crossing Violation,Human,2020,3,0,2
+Lalmonirhat,24.117401774245177,89.35777213279987,Collision,Missing,Passenger,Missing,Missing,Level Crossing Violation,Human,2020,7,2,2
+Singiya,24.318340943776423,89.37738671293705,Collision,461 Up,Passenger,Missing,Missing,Level Crossing Violation,Human,2020,5,1,2
+Alamdanga- Halsa,24.54505765743225,89.3178327478142,Collision,461 Up,Passenger,Missing,Missing,Level Crossing Violation,Human,2020,4,1,2
+Alamdanga- Halsa,24.919959833525176,89.38172124378065,Collision,Missing,Freight,Crossing,Private Car,Level Crossing Violation,Human,2021,3,1,2
+Onnodangor,24.479695440625598,89.39313725433884,Collision,DSB 9 Up,Freight,Crossing,Missing,Coupling collision,Human,2020,3,0,2
+Singiya,24.689878445261023,89.18374170157357,Collision,DSB 9 Up,Freight,Crossing,Missing,Level Crossing Violation,Human,2022,5,3,2
+Singiya,25.59971657845681,89.29618812690279,Collision,Missing,Passenger,Crossing,Auto,Level Crossing Violation,Human,2023,3,4,2
+Singiya,25.024170641570258,89.22505670159273,Collision,Missing,Freight,Crossing,Auto,Level Crossing Violation,Human,2022,4,3,2
+Lalmonirhat,24.47954504871758,89.17889061587985,Collision,Missing,Passenger,Crossing,Auto,Level Crossing Violation,Human,2021,6,3,2
+Alamdanga- Halsa,25.57136033563142,89.3333,Collision,Missing,Freight,Crossing,Private Car,Level Crossing Violation,Human,2023,4,4,2
+Singiya,25.76161239790918,89.31619674767715,Collision,Missing,Passenger,Crossing,Private Car,Level Crossing Violation,Human,2023,3,4,2
+Onnodangor,24.1300568371672,89.2669459238499,Collision,Missing,Passenger,Crossing,Missing,Level Crossing Violation,Human,2020,8,3,2
